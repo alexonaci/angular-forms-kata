@@ -1,12 +1,12 @@
 # Angular Kata 1
 
-This project represents the working files for angular kata 1.
+This project represents the working files for the first Angular kata.
 
 [Code Kata Definition](http://codekata.com/)
 
 Kata:
 
-1. Find a simple way to handle data from a chosen input type (input, radio, select).
+1. Find a simple way to handle data from a chosen input type (input, radio, select) and display it in the browser console.
 
 2. Find a creative (not necessary right) way to do the same thing (1).
 
