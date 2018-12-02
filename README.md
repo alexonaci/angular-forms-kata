@@ -10,7 +10,7 @@ Kata:
 
 2. Find a creative (not necessary right) way to do the same thing (1).
 
-3. Find 4 angular ways to do the same thing.
+3. Find 4 angular ways to do the same thing (e.g. Reactive Forms, Template-driven Forms, ...).
 
 4. Show your muscles with the same functionality
 
